@@ -1,0 +1,15 @@
+C:\C#\CsharpStudy\Day8_Class\bin\Debug\net6.0\Day8_Class.exe
+C:\C#\CsharpStudy\Day8_Class\bin\Debug\net6.0\Day8_Class.deps.json
+C:\C#\CsharpStudy\Day8_Class\bin\Debug\net6.0\Day8_Class.runtimeconfig.json
+C:\C#\CsharpStudy\Day8_Class\bin\Debug\net6.0\Day8_Class.dll
+C:\C#\CsharpStudy\Day8_Class\bin\Debug\net6.0\Day8_Class.pdb
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\Day8_Class.csproj.AssemblyReference.cache
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\Day8_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\Day8_Class.AssemblyInfoInputs.cache
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\Day8_Class.AssemblyInfo.cs
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\Day8_Class.csproj.CoreCompileInputs.cache
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\Day8_Class.dll
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\refint\Day8_Class.dll
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\Day8_Class.pdb
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\Day8_Class.genruntimeconfig.cache
+C:\C#\CsharpStudy\Day8_Class\obj\Debug\net6.0\ref\Day8_Class.dll
