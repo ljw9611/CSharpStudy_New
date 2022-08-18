@@ -1,0 +1,15 @@
+C:\C#\Csharpstudy\Day3\bin\Debug\net6.0\Day3.exe
+C:\C#\Csharpstudy\Day3\bin\Debug\net6.0\Day3.deps.json
+C:\C#\Csharpstudy\Day3\bin\Debug\net6.0\Day3.runtimeconfig.json
+C:\C#\Csharpstudy\Day3\bin\Debug\net6.0\Day3.dll
+C:\C#\Csharpstudy\Day3\bin\Debug\net6.0\Day3.pdb
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\Day3.csproj.AssemblyReference.cache
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\Day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\Day3.AssemblyInfoInputs.cache
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\Day3.AssemblyInfo.cs
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\Day3.csproj.CoreCompileInputs.cache
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\Day3.dll
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\refint\Day3.dll
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\Day3.pdb
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\Day3.genruntimeconfig.cache
+C:\C#\Csharpstudy\Day3\obj\Debug\net6.0\ref\Day3.dll
