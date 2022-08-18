@@ -7,6 +7,7 @@ using N_ConsoleColorDemo;
 using N_EnumerationDemo;
 using N_EnumIndexChange;
 using N_EnumSwitch;
+using N_EnumGetnames;
 
 namespace Day8_Main
 {
@@ -30,8 +31,11 @@ namespace Day8_Main
             //EnumIndexChange enumIndexChange = new();
             //enumIndexChange.EnumIndexChangeEx();
 
-            EnumSwitch enumSwitch = new EnumSwitch();
-            enumSwitch.EnumSwitchEx();
+            //EnumSwitch enumSwitch = new EnumSwitch();
+            //enumSwitch.EnumSwitchEx();
+
+            EnumGetnames enumGetnames = new EnumGetnames();
+            enumGetnames.EnumGetnamesEx();
         }
     }
 }
