@@ -3,6 +3,8 @@ using N_StructDemo;
 using N_StructArray;
 using N_StructParameter;
 using N_StructDate;
+using N_ConsoleColorDemo;
+using N_EnumerationDemo;
 
 namespace Day8_Main
 {
@@ -14,8 +16,14 @@ namespace Day8_Main
             //StructArray.StructArrayEx();
             //StructParameter.StructParameterEx();
 
-            StructDate structDate = new StructDate();
-            structDate.StructDateEx();
+            //StructDate structDate = new StructDate();
+            //structDate.StructDateEx();
+
+            //ConsoleColorDemo consoleColorDemo = new();
+            //consoleColorDemo.ConsoleColorDemoEx();
+
+            EnumerationDemo enumerationDemo = new();
+            enumerationDemo.EnumerationDemoEx();
         }
     }
 }
