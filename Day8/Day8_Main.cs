@@ -5,6 +5,7 @@ using N_StructParameter;
 using N_StructDate;
 using N_ConsoleColorDemo;
 using N_EnumerationDemo;
+using N_EnumIndexChange;
 
 namespace Day8_Main
 {
@@ -22,8 +23,11 @@ namespace Day8_Main
             //ConsoleColorDemo consoleColorDemo = new();
             //consoleColorDemo.ConsoleColorDemoEx();
 
-            EnumerationDemo enumerationDemo = new();
-            enumerationDemo.EnumerationDemoEx();
+            //EnumerationDemo enumerationDemo = new();
+            //enumerationDemo.EnumerationDemoEx();
+
+            EnumIndexChange enumIndexChange = new();
+            enumIndexChange.EnumIndexChangeEx();
         }
     }
 }
