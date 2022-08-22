@@ -8,6 +8,9 @@ using N_EnumerationDemo;
 using N_EnumIndexChange;
 using N_EnumSwitch;
 using N_EnumGetnames;
+using N_EnvironmentExit;
+using N_ProcessStartDemo;
+using N_IsAs;
 
 namespace Day8_Main
 {
@@ -34,8 +37,14 @@ namespace Day8_Main
             //EnumSwitch enumSwitch = new EnumSwitch();
             //enumSwitch.EnumSwitchEx();
 
-            EnumGetnames enumGetnames = new EnumGetnames();
-            enumGetnames.EnumGetnamesEx();
+            /*EnumGetnames enumGetnames = new EnumGetnames();
+            enumGetnames.EnumGetnamesEx();*/
+
+            //EnvironmentExit.EnvironmentExitEx();
+
+            //ProcessStartDemo.ProcessStartDemoEx();
+
+            IsAs.IsAsEx();
         }
     }
 }

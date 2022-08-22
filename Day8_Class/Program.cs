@@ -1,4 +1,5 @@
 ﻿using System;
+
 class MyFirstClass
 {
     static void StaticMethod() => Console.WriteLine("[1] 정적 메서드");
