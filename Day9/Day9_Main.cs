@@ -1,4 +1,5 @@
 ﻿using System;
+using N_StringPerformance;
 
 namespace Day9
 {
@@ -6,7 +7,7 @@ namespace Day9
     {
         static void Main(string[] args)
         {
-
+            StringPerformance.StringPerformanceEx();
         }
     }
 }
