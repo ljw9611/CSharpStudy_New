@@ -1,5 +1,6 @@
 ﻿using System;
 using N_StringPerformance;
+using N_TryCatch;
 
 namespace Day9
 {
@@ -7,7 +8,8 @@ namespace Day9
     {
         static void Main(string[] args)
         {
-            StringPerformance.StringPerformanceEx();
+            //StringPerformance.StringPerformanceEx();
+            TryCatch.TryCatchEx();
         }
     }
 }
