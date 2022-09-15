@@ -1,0 +1,15 @@
+C:\C#\CsharpStudy\Day10_LINQ\bin\Debug\net6.0\Day10_LINQ.exe
+C:\C#\CsharpStudy\Day10_LINQ\bin\Debug\net6.0\Day10_LINQ.deps.json
+C:\C#\CsharpStudy\Day10_LINQ\bin\Debug\net6.0\Day10_LINQ.runtimeconfig.json
+C:\C#\CsharpStudy\Day10_LINQ\bin\Debug\net6.0\Day10_LINQ.dll
+C:\C#\CsharpStudy\Day10_LINQ\bin\Debug\net6.0\Day10_LINQ.pdb
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\Day10_LINQ.csproj.AssemblyReference.cache
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\Day10_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\Day10_LINQ.AssemblyInfoInputs.cache
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\Day10_LINQ.AssemblyInfo.cs
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\Day10_LINQ.csproj.CoreCompileInputs.cache
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\Day10_LINQ.dll
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\refint\Day10_LINQ.dll
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\Day10_LINQ.pdb
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\Day10_LINQ.genruntimeconfig.cache
+C:\C#\CsharpStudy\Day10_LINQ\obj\Debug\net6.0\ref\Day10_LINQ.dll
