@@ -250,9 +250,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\CsharpStudy\\Day10\\Day10.csproj",
-      "projectName": "Day10",
-      "projectPath": "C:\\C#\\CsharpStudy\\Day10\\Day10.csproj",
+      "projectUniqueName": "C:\\C#\\CsharpStudy\\Day10\\Day10_Gneric.csproj",
+      "projectName": "Day10_Gneric",
+      "projectPath": "C:\\C#\\CsharpStudy\\Day10\\Day10_Gneric.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
       "outputPath": "C:\\C#\\CsharpStudy\\Day10\\obj\\",
       "projectStyle": "PackageReference",

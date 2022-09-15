@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a8wnMHdWg7yO3c1cJs8Os9WCCmuyi63KwniwLaQCGVIkj4C1mEIK5L65p6z1+Plw6Srlgrx7hiME4/jKBLZf4g==",
+  "dgSpecHash": "K7ONz9RqsqqC1AHdau31ydltlloocIJM919MTBhXPbHOBzsxz4W+2o08YKuxZR1XEkuGZUNW70aW3wO+QeXGQg==",
   "success": true,
-  "projectFilePath": "C:\\C#\\CsharpStudy\\Day10\\Day10.csproj",
+  "projectFilePath": "C:\\C#\\CsharpStudy\\Day10\\Day10_Gneric.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

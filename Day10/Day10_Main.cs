@@ -1,6 +1,7 @@
 ﻿using System;
 using N_GenericStack;
 using N_GenericList;
+using N_EnumerableDemo;
 
 
 namespace Day10
@@ -10,7 +11,8 @@ namespace Day10
         static void Main(string[] args)
         {
             //GenericStack.StackEx();
-            GenericList.GenericListEx();
+            //GenericList.GenericListEx();
+            EnumerableDemo.EnumerableEx();
         }
     }
 }
