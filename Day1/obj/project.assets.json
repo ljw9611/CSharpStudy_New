@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Csharpstudy\\Day1\\Day1.csproj",
-      "projectName": "Day1",
-      "projectPath": "C:\\C#\\Csharpstudy\\Day1\\Day1.csproj",
+      "projectUniqueName": "C:\\C#\\CsharpStudy\\Day1\\Day01.csproj",
+      "projectName": "Day01",
+      "projectPath": "C:\\C#\\CsharpStudy\\Day1\\Day01.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Csharpstudy\\Day1\\obj\\",
+      "outputPath": "C:\\C#\\CsharpStudy\\Day1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

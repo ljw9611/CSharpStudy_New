@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZjHH2iplQ5Fe4xWlMRw8tM/OUb0o7bjlAyEEu1VsMHhajddZnChMIq8iMZ3FUm4hS+FFudwIf6kLqV3n4A3Iog==",
+  "dgSpecHash": "qJAosM4JT+/4HyphC0Wqsvn5n084IL1HLjKFUVWzR8NonhDo+06ZlQX3THURYah4E9TCjwbRVhxmzRUj2i8HWA==",
   "success": true,
-  "projectFilePath": "C:\\C#\\CsharpStudy\\Day1\\Day1.csproj",
+  "projectFilePath": "C:\\C#\\CsharpStudy\\Day1\\Day01.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

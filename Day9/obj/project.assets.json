@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\CsharpStudy\\Day9\\Day9.csproj",
-      "projectName": "Day9",
-      "projectPath": "C:\\C#\\CsharpStudy\\Day9\\Day9.csproj",
+      "projectUniqueName": "C:\\C#\\CsharpStudy\\Day9\\Day09.csproj",
+      "projectName": "Day09",
+      "projectPath": "C:\\C#\\CsharpStudy\\Day9\\Day09.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
       "outputPath": "C:\\C#\\CsharpStudy\\Day9\\obj\\",
       "projectStyle": "PackageReference",
