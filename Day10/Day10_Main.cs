@@ -2,6 +2,7 @@
 using N_GenericStack;
 using N_GenericList;
 using N_EnumerableDemo;
+using N_Dictionary;
 
 
 namespace Day10
@@ -12,7 +13,8 @@ namespace Day10
         {
             //GenericStack.StackEx();
             //GenericList.GenericListEx();
-            EnumerableDemo.EnumerableEx();
+            //EnumerableDemo.EnumerableEx();
+            DictionaryClass.DictionaryEx();
         }
     }
 }
