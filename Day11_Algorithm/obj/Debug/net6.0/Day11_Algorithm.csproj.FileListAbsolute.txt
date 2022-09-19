@@ -1,0 +1,15 @@
+C:\C#\CsharpStudy\Day11_Algorithm\bin\Debug\net6.0\Day11_Algorithm.exe
+C:\C#\CsharpStudy\Day11_Algorithm\bin\Debug\net6.0\Day11_Algorithm.deps.json
+C:\C#\CsharpStudy\Day11_Algorithm\bin\Debug\net6.0\Day11_Algorithm.runtimeconfig.json
+C:\C#\CsharpStudy\Day11_Algorithm\bin\Debug\net6.0\Day11_Algorithm.dll
+C:\C#\CsharpStudy\Day11_Algorithm\bin\Debug\net6.0\Day11_Algorithm.pdb
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\Day11_Algorithm.csproj.AssemblyReference.cache
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\Day11_Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\Day11_Algorithm.AssemblyInfoInputs.cache
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\Day11_Algorithm.AssemblyInfo.cs
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\Day11_Algorithm.csproj.CoreCompileInputs.cache
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\Day11_Algorithm.dll
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\refint\Day11_Algorithm.dll
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\Day11_Algorithm.pdb
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\Day11_Algorithm.genruntimeconfig.cache
+C:\C#\CsharpStudy\Day11_Algorithm\obj\Debug\net6.0\ref\Day11_Algorithm.dll
