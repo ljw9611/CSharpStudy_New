@@ -4,6 +4,5 @@ internal class Day11_Main
 {
     static void Main(string[] args)
     {
-        SumAlgorithmClass.SumAlgorithm();
     }
 }
