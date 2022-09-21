@@ -2,6 +2,7 @@
 using N_SumAlgorithm;
 using N_CountAlgorithm;
 using N_AverageAlgorithm;
+using N_MaxAlgorithm;
 
 internal class Day11_Main
 {
@@ -9,6 +10,7 @@ internal class Day11_Main
     {
         //SumAlgorithmClass.SumAlgorithm();
         //CountAlgorithmClass.CountAlgorithm();
-        AverageAlgorithmClass.AverageAlgorithm();
+        //AverageAlgorithmClass.AverageAlgorithm();
+        MaxAlgorithmClass.MaxAlgorithm();
     }
 }
