@@ -3,6 +3,7 @@ using N_SumAlgorithm;
 using N_CountAlgorithm;
 using N_AverageAlgorithm;
 using N_MaxAlgorithm;
+using N_MinAlgorithm;
 
 internal class Day11_Main
 {
@@ -11,6 +12,7 @@ internal class Day11_Main
         //SumAlgorithmClass.SumAlgorithm();
         //CountAlgorithmClass.CountAlgorithm();
         //AverageAlgorithmClass.AverageAlgorithm();
-        MaxAlgorithmClass.MaxAlgorithm();
+        //MaxAlgorithmClass.MaxAlgorithm();
+        MinAlgorithmClass.MinAlgorithm();
     }
 }
