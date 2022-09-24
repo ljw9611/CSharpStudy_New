@@ -4,6 +4,7 @@ using N_CountAlgorithm;
 using N_AverageAlgorithm;
 using N_MaxAlgorithm;
 using N_MinAlgorithm;
+using N_NearAlgorithm;
 
 internal class Day11_Main
 {
@@ -13,6 +14,7 @@ internal class Day11_Main
         //CountAlgorithmClass.CountAlgorithm();
         //AverageAlgorithmClass.AverageAlgorithm();
         //MaxAlgorithmClass.MaxAlgorithm();
-        MinAlgorithmClass.MinAlgorithm();
+        //MinAlgorithmClass.MinAlgorithm();
+        NearAlgorithmClass.NearAlgorithm();
     }
 }
