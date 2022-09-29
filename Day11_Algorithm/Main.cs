@@ -7,6 +7,8 @@ using N_MinAlgorithm;
 using N_NearAlgorithm;
 using N_NearAll;
 using N_RankAlgorithm;
+using N_SortAlgorithm;
+using N_SearchAlgorithm;
 
 internal class Day11_Main
 {
@@ -19,6 +21,8 @@ internal class Day11_Main
         //MinAlgorithmClass.MinAlgorithm();
         //NearAlgorithmClass.NearAlgorithm();
         //NearAllClass.NearAll();
-        RankAlgorithmClass.RankAlgorithm();
+        //RankAlgorithmClass.RankAlgorithm();
+        //SortAlgorithmClass.SortAlgorithm();
+        SearchAlgorithmClass.SearchAlgorithm();
     }
 }
