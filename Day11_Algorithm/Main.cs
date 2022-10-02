@@ -9,6 +9,7 @@ using N_NearAll;
 using N_RankAlgorithm;
 using N_SortAlgorithm;
 using N_SearchAlgorithm;
+using N_MergeAlgorithm;
 
 internal class Day11_Main
 {
@@ -23,6 +24,7 @@ internal class Day11_Main
         //NearAllClass.NearAll();
         //RankAlgorithmClass.RankAlgorithm();
         //SortAlgorithmClass.SortAlgorithm();
-        SearchAlgorithmClass.SearchAlgorithm();
+        //SearchAlgorithmClass.SearchAlgorithm();
+        MergeAlgorithmClass.MergeAlgorithm();
     }
 }
