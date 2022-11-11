@@ -10,6 +10,8 @@ using N_RankAlgorithm;
 using N_SortAlgorithm;
 using N_SearchAlgorithm;
 using N_MergeAlgorithm;
+using N_ModeAlgorithm;
+using N_GroupAlgorithm;
 
 internal class Day11_Main
 {
@@ -25,6 +27,8 @@ internal class Day11_Main
         //RankAlgorithmClass.RankAlgorithm();
         //SortAlgorithmClass.SortAlgorithm();
         //SearchAlgorithmClass.SearchAlgorithm();
-        MergeAlgorithmClass.MergeAlgorithm();
+        //MergeAlgorithmClass.MergeAlgorithm();
+        //ModeAlgorithmClass.ModeAlgorithm();
+        GroupAlgorithmClass.GroupAlgorithm();
     }
 }
