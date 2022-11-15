@@ -1,0 +1,15 @@
+C:\C#\CsharpStudy\Day12_Object\bin\Debug\net6.0\Day12_Object.exe
+C:\C#\CsharpStudy\Day12_Object\bin\Debug\net6.0\Day12_Object.deps.json
+C:\C#\CsharpStudy\Day12_Object\bin\Debug\net6.0\Day12_Object.runtimeconfig.json
+C:\C#\CsharpStudy\Day12_Object\bin\Debug\net6.0\Day12_Object.dll
+C:\C#\CsharpStudy\Day12_Object\bin\Debug\net6.0\Day12_Object.pdb
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\Day12_Object.csproj.AssemblyReference.cache
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\Day12_Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\Day12_Object.AssemblyInfoInputs.cache
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\Day12_Object.AssemblyInfo.cs
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\Day12_Object.csproj.CoreCompileInputs.cache
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\Day12_Object.dll
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\refint\Day12_Object.dll
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\Day12_Object.pdb
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\Day12_Object.genruntimeconfig.cache
+C:\C#\CsharpStudy\Day12_Object\obj\Debug\net6.0\ref\Day12_Object.dll
