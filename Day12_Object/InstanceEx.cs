@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Day12_Object
+namespace N_InstanceEx
 {
     public class InstanceEx 
     {
@@ -11,10 +11,6 @@ namespace Day12_Object
         {
             int sum = x + y;
             Console.WriteLine($"합계 : {sum}");
-            // 02. MyMath 클래스의 인스턴스 생성
-            InstanceEx myMath = new InstanceEx();
-            // 03. 개체.인스턴스메서드이름; 형태로 호출
-            myMath.Sum(3, 5);
         }
     }
 }
